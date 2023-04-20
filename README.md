@@ -1,18 +1,26 @@
-### Hi there, My name is Deissei and i Backend Developer 👋
+## Hi there 👋 I'm Deissei and Python Back-end developer
 
-<!--
-**Deissei/Deissei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Technology stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Technology stack
-https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320"/>
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+
+**Tools**
+
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+![stat3](https://github-readme-streak-stats.herokuapp.com/?user=nuranov04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=nuranov04&layout=compact&count_private=true&theme=gruvbox)
