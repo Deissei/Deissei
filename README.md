@@ -31,4 +31,3 @@
 
 
 ![stat3](https://github-readme-streak-stats.herokuapp.com/?user=nuranov04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
-![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=nuranov04&layout=compact&count_private=true&theme=gruvbox)
